@@ -9,9 +9,9 @@ Links and documentation for a collection of Pi sensors and accessories, see belo
 
 ## Motion
 
- - [PIR Motion Sensor](https://github.com/jgphilpott/sensors/blob/main/PIR_Motion_Sensor/README.md)
+ - [PIR Motion Sensor](https://github.com/jgphilpott/sensors/blob/main/Motion/PIR_Motion_Sensor/README.md)
 
 ## Port Expanders
 
- - [MCP23008](https://github.com/jgphilpott/sensors/blob/main/MCP23008/README.md)
- - [MCP23017](https://github.com/jgphilpott/sensors/blob/main/MCP23017/README.md)
+ - [MCP23008](https://github.com/jgphilpott/sensors/blob/main/Port_Expanders/MCP23008/README.md)
+ - [MCP23017](https://github.com/jgphilpott/sensors/blob/main/Port_Expanders/MCP23017/README.md)

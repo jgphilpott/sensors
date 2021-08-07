@@ -6,4 +6,4 @@
 
 **Notes:** To orient the sensor see the image below, the **left pin is power**, the **center pin is control** and the **right pin is ground**.
 
-<p align="center"><img width="300" height="400" src="https://github.com/jgphilpott/sensors/blob/main/PIR_Motion_Sensor/PIR_Motion_Sensor.jpg"></p>
+<p align="center"><img width="300" height="400" src="https://github.com/jgphilpott/sensors/blob/main/Motion/PIR_Motion_Sensor/PIR_Motion_Sensor.jpg"></p>
