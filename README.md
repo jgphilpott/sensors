@@ -15,3 +15,7 @@ Links and documentation for a collection of Pi sensors and accessories, see belo
 
  - [MCP23008](https://github.com/jgphilpott/sensors/blob/main/Port_Expanders/MCP23008/README.md)
  - [MCP23017](https://github.com/jgphilpott/sensors/blob/main/Port_Expanders/MCP23017/README.md)
+
+## Time
+
+ - [Robojax DS1307 Real Time Clock](https://github.com/jgphilpott/sensors/blob/main/Time/DS1307/README.md)
