@@ -11,12 +11,16 @@ Links and documentation for a collection of Pi sensors and accessories, see belo
 
  - [PIR Motion Sensor](https://github.com/jgphilpott/sensors/blob/main/Motion/PIR_Motion_Sensor/README.md)
 
+## Navigation
+
+ - [HMC5883L Electronic Compass](https://github.com/jgphilpott/sensors/blob/main/Navigation/HMC5883L/README.md)
+
 ## Port Expanders
 
  - [MCP23008](https://github.com/jgphilpott/sensors/blob/main/Port_Expanders/MCP23008/README.md)
  - [MCP23017](https://github.com/jgphilpott/sensors/blob/main/Port_Expanders/MCP23017/README.md)
 
-# Radio
+## Radio
 
  - [Gikfun RC522 RFID Module](https://github.com/jgphilpott/sensors/blob/main/Radio/RC522_RFID/README.md)
 
