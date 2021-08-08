@@ -1,8 +1,8 @@
-<p align="center"><img width="250" height="250" src="https://github.com/jgphilpott/sensors/blob/main/pi.png"></p>
+<p align="center"><img width="200" height="200" src="https://github.com/jgphilpott/sensors/blob/main/pi.png"></p>
 
 # Sensors
 
-Links and documentation for a collection of Pi sensors and accessories, see below.
+Links and documentation for a collection of Raspberry Pi sensors and accessories, see below.
 
 ## Lasers
 
