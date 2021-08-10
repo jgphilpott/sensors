@@ -11,6 +11,7 @@ Links and documentation for a collection of Raspberry Pi sensors and accessories
 
 ## Motion
 
+ - [MPU-6050 Gyroscope](https://github.com/jgphilpott/sensors/blob/main/Motion/MPU6050/README.md)
  - [PIR Motion Sensor](https://github.com/jgphilpott/sensors/blob/main/Motion/PIR_Motion_Sensor/README.md)
 
 ## Navigation
