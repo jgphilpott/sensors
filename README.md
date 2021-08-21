@@ -4,6 +4,11 @@
 
 Links and documentation for a collection of Raspberry Pi sensors and accessories, see below.
 
+## Atmosphere
+
+ - [FlashTree Barometric Pressure Sensor](https://github.com/jgphilpott/sensors/blob/main/Atmosphere/BMP180/README.md)
+ - [FlashTree Temperature and Humidity Sensor](https://github.com/jgphilpott/sensors/blob/main/Atmosphere/DHT22/README.md)
+
 ## Lasers
 
  - [SunFounder Laser](https://github.com/jgphilpott/sensors/blob/main/Lasers/SunFounder_Laser/README.md)
