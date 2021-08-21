@@ -27,6 +27,10 @@ Links and documentation for a collection of Raspberry Pi sensors and accessories
 
  - [Gikfun RC522 RFID Module](https://github.com/jgphilpott/sensors/blob/main/Radio/RC522_RFID/README.md)
 
+## Sonic
+
+ - [FlashTree Ultrasonic Distance Sensor](https://github.com/jgphilpott/sensors/blob/main/Sonic/HC-SR04/README.md)
+
 ## Time
 
  - [Robojax DS1307 Real Time Clock](https://github.com/jgphilpott/sensors/blob/main/Time/DS1307/README.md)
