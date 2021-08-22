@@ -4,4 +4,4 @@
 
 **Tutorial:** [Raspberry Pi Tutorials](https://tutorials-raspberrypi.com/raspberry-pi-and-i2c-air-pressure-sensor-bmp180)
 
-**Notes:** ...
+**Notes:** The script can be activated with the command: `sudo python Adafruit_BMP085_example.py`.
