@@ -2,7 +2,7 @@
 
 # Sensors
 
-Links and documentation for a collection of Raspberry Pi sensors and accessories, see below.
+If you haven't used Raspberry Pi's GPIO pins before, a good starting point is the '[Pi Box 1](https://github.com/jgphilpott/sensors/blob/main/Intro/README.md)' from [Monk Makes](https://github.com/monkmakes). If you already have some experience and are hungry for more, this repo contains links and documentation for a variety of Raspberry Pi sensors and accessories, see below.
 
 ## Atmosphere
 
