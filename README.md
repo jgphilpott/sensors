@@ -2,12 +2,13 @@
 
 # Sensors
 
-If you haven't used Raspberry Pi's GPIO pins before, a good starting point is the '[Pi Box 1](https://github.com/jgphilpott/sensors/blob/main/Intro/README.md)' from [Monk Makes](https://github.com/monkmakes). If you already have some experience and are hungry for more, this repo contains links and documentation for a variety of Raspberry Pi sensors and accessories, see below.
+If you haven't used Raspberry Pi's GPIO pins before, a good starting point is the [Pi Box 1](https://github.com/jgphilpott/sensors/blob/main/Intro/README.md) from [Monk Makes](https://github.com/monkmakes). If you already have some experience and are hungry for more, this repo contains links and documentation for a variety of Raspberry Pi sensors and accessories, see below.
 
 ## Atmosphere
 
  - [FlashTree Barometric Pressure Sensor](https://github.com/jgphilpott/sensors/blob/main/Atmosphere/BMP180/README.md)
  - [FlashTree Temperature and Humidity Sensor](https://github.com/jgphilpott/sensors/blob/main/Atmosphere/DHT22/README.md)
+ - [Sense HAT](https://github.com/jgphilpott/sensors/blob/main/Atmosphere/Sense_HAT/README.md)
 
 ## Biometrics
 
@@ -23,6 +24,16 @@ If you haven't used Raspberry Pi's GPIO pins before, a good starting point is th
 
  - [MPU-6050 Gyroscope](https://github.com/jgphilpott/sensors/blob/main/Motion/MPU6050/README.md)
  - [PIR Motion Sensor](https://github.com/jgphilpott/sensors/blob/main/Motion/PIR_Motion_Sensor/README.md)
+
+## Motors & Drivers
+
+### Motors
+
+ - [...]()
+
+### Drivers
+
+ - [...]()
 
 ## Navigation
 
