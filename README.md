@@ -2,7 +2,7 @@
 
 # Sensors
 
-If you haven't used Raspberry Pi's GPIO pins before, a good starting point is the [Pi Box 1](https://github.com/jgphilpott/sensors/blob/main/Intro/README.md) from [Monk Makes](https://github.com/monkmakes). If you already have some experience and are hungry for more, this repo contains links and documentation for a variety of Raspberry Pi sensors and accessories, see below.
+If you haven't used Raspberry Pi's GPIO pins before, a good starting point is the [Pi Box 1](https://github.com/jgphilpott/sensors/blob/main/Intro/README.md) from [Monk Makes](https://github.com/monkmakes). If you already have some experience and are hungry for more, this repo contains links, documentation and code for a variety of Raspberry Pi sensors and accessories, see below.
 
 ## Atmosphere
 
@@ -29,11 +29,16 @@ If you haven't used Raspberry Pi's GPIO pins before, a good starting point is th
 
 ### Motors
 
- - [...]()
+ - [28BJY-48 5V Stepper Motor](https://github.com/jgphilpott/sensors/blob/main/Motors&Drivers/Motors/28BJY-48/README.md)
+ - [Nema 17 Stepper Motor](https://github.com/jgphilpott/sensors/blob/main/Motors&Drivers/Motors/NEMA-17/README.md)
+ - [Nema 17 Mini Stepper Motor](https://github.com/jgphilpott/sensors/blob/main/Motors&Drivers/Motors/NEMA-17-Mini/README.md)
+ - [SM24240 Stepper Motor](https://github.com/jgphilpott/sensors/blob/main/Motors&Drivers/Motors/SM24240/README.md)
 
 ### Drivers
 
- - [...]()
+ - [Adafruit Stepper Motor HAT](https://github.com/jgphilpott/sensors/blob/main/Motors&Drivers/Drivers/Adafruit/README.md)
+ - [Waveshare Stepper Motor HAT](https://github.com/jgphilpott/sensors/blob/main/Motors&Drivers/Drivers/Waveshare/README.md)
+ - [Waveshare Mini Stepper Motor HAT](https://github.com/jgphilpott/sensors/blob/main/Motors&Drivers/Drivers/WaveshareMini/README.md)
 
 ## Navigation
 
