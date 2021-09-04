@@ -4,4 +4,4 @@
 
 **Tutorial:** [Raspberry Pi](https://projects.raspberrypi.org/en/projects/getting-started-with-the-sense-hat)
 
-**Notes:** ...
+**Notes:** For an example project checkout the blackbox [repo](https://github.com/jgphilpott/blackbox) and [video](https://youtu.be/wSXlRIHWeEo).
