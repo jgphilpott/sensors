@@ -43,6 +43,7 @@ If you haven't used Raspberry Pi's GPIO pins before, a good starting point is th
 ## Navigation
 
  - [HMC5883L Electronic Compass](https://github.com/jgphilpott/sensors/blob/main/Navigation/HMC5883L/README.md)
+ - [NEO-6M GPS Module](https://github.com/jgphilpott/sensors/blob/main/Navigation/NEO/README.md)
 
 ## Port Expanders
 
