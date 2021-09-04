@@ -40,6 +40,10 @@ If you haven't used Raspberry Pi's GPIO pins before, a good starting point is th
  - [Waveshare Stepper Motor HAT](https://github.com/jgphilpott/sensors/blob/main/Motors&Drivers/Drivers/Waveshare/README.md)
  - [Waveshare Mini Stepper Motor HAT](https://github.com/jgphilpott/sensors/blob/main/Motors&Drivers/Drivers/WaveshareMini/README.md)
 
+### Irrigation
+
+ - [Gikfun Soil Moisture Sensor](https://github.com/jgphilpott/sensors/blob/main/Irrigation/Soil_Moisture/README.md)
+
 ## Navigation
 
  - [HMC5883L Electronic Compass](https://github.com/jgphilpott/sensors/blob/main/Navigation/HMC5883L/README.md)
