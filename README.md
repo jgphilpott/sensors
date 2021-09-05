@@ -4,6 +4,11 @@
 
 If you haven't used Raspberry Pi's GPIO pins before, a good starting point is the [Pi Box 1](https://github.com/jgphilpott/sensors/blob/main/Intro/README.md) from [Monk Makes](https://github.com/monkmakes). If you already have some experience and are hungry for more, this repo contains links, documentation and code for a variety of Raspberry Pi sensors and accessories, see below.
 
+## Accessories
+
+ - [2x20 Extra Tall Female Stacking Header](https://github.com/jgphilpott/sensors/blob/main/Accessories/Extra_Tall_Stacking_Header/README.md)
+ - [MCP3008 Analog-to-Digital Converter](https://github.com/jgphilpott/sensors/blob/main/Accessories/MCP3008/README.md)
+
 ## Atmosphere
 
  - [FlashTree Barometric Pressure Sensor](https://github.com/jgphilpott/sensors/blob/main/Atmosphere/BMP180/README.md)
