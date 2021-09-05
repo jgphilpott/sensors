@@ -40,7 +40,7 @@ If you haven't used Raspberry Pi's GPIO pins before, a good starting point is th
  - [Waveshare Stepper Motor HAT](https://github.com/jgphilpott/sensors/blob/main/Motors&Drivers/Drivers/Waveshare/README.md)
  - [Waveshare Mini Stepper Motor HAT](https://github.com/jgphilpott/sensors/blob/main/Motors&Drivers/Drivers/WaveshareMini/README.md)
 
-### Irrigation
+## Irrigation
 
  - [Gikfun Soil Moisture Sensor](https://github.com/jgphilpott/sensors/blob/main/Irrigation/Soil_Moisture/README.md)
 
@@ -60,6 +60,10 @@ If you haven't used Raspberry Pi's GPIO pins before, a good starting point is th
  - [NRF24L01+ RF Transceiver](https://github.com/jgphilpott/sensors/blob/main/Radio/NRF24L01+/README.md)
  - [Oiyagai 433MHz RF Transmitter and Receiver](https://github.com/jgphilpott/sensors/blob/main/Radio/433MHz/README.md)
  - [Si4703 FM Tuner](https://github.com/jgphilpott/sensors/blob/main/Radio/Si4703/README.md)
+
+## Scales
+
+ - [20kg Load Cell Weight Sensor](https://github.com/jgphilpott/sensors/blob/main/Scales/20kg_Load_Cell/README.md)
 
 ## Sonic
 
