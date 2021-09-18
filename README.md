@@ -20,6 +20,11 @@ If you haven't used Raspberry Pi's GPIO pins before, a good starting point is th
  - [Andifany Pulse Sensor](https://github.com/jgphilpott/sensors/blob/main/Biometrics/Pulse/README.md)
  - [Optical Fingerprint Reader](https://github.com/jgphilpott/sensors/blob/main/Biometrics/Fingerprint/README.md)
 
+## Camaras
+
+ - [Raspberry Pi Camera](https://github.com/jgphilpott/sensors/blob/main/Camaras/Camara/README.md)
+ - [Raspberry Pi NoIR Camera](https://github.com/jgphilpott/sensors/blob/main/Camaras/Camara_NoIR/README.md)
+
 ## Lasers
 
  - [SunFounder Laser](https://github.com/jgphilpott/sensors/blob/main/Lasers/SunFounder_Laser/README.md)
