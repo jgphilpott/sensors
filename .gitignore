@@ -1,2 +1,7 @@
-__pycache__
+# Python Cache
 *.pyc
+__pycache__
+
+# Soil Moisture Extra Libraries
+/Irrigation/Soil_Moisture/Adafruit_I2C/*
+/Irrigation/Soil_Moisture/SDL_Adafruit_ADS1x15/*
