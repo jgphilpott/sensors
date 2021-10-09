@@ -22,8 +22,8 @@ If you haven't used Raspberry Pi's GPIO pins before, a good starting point is th
 
 ## Camaras
 
- - [Raspberry Pi Camera](https://github.com/jgphilpott/sensors/blob/main/Camaras/Camara/README.md)
- - [Raspberry Pi NoIR Camera](https://github.com/jgphilpott/sensors/blob/main/Camaras/Camara_NoIR/README.md)
+ - [Raspberry Pi Camera](https://github.com/jgphilpott/sensors/blob/main/Camaras/Camera/README.md)
+ - [Raspberry Pi NoIR Camera](https://github.com/jgphilpott/sensors/blob/main/Camaras/Camera_NoIR/README.md)
 
 ## Lasers
 
