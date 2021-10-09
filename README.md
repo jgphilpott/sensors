@@ -25,6 +25,10 @@ If you haven't used Raspberry Pi's GPIO pins before, a good starting point is th
  - [Raspberry Pi Camera](https://github.com/jgphilpott/sensors/blob/main/Camaras/Camera/README.md)
  - [Raspberry Pi NoIR Camera](https://github.com/jgphilpott/sensors/blob/main/Camaras/Camera_NoIR/README.md)
 
+## Irrigation
+
+ - [Gikfun Soil Moisture Sensor](https://github.com/jgphilpott/sensors/blob/main/Irrigation/Soil_Moisture/README.md)
+
 ## Lasers
 
  - [SunFounder Laser](https://github.com/jgphilpott/sensors/blob/main/Lasers/SunFounder_Laser/README.md)
@@ -49,10 +53,6 @@ If you haven't used Raspberry Pi's GPIO pins before, a good starting point is th
  - [Adafruit Stepper Motor HAT](https://github.com/jgphilpott/sensors/blob/main/Motors&Drivers/Drivers/Adafruit/README.md)
  - [Waveshare Stepper Motor HAT](https://github.com/jgphilpott/sensors/blob/main/Motors&Drivers/Drivers/Waveshare/README.md)
  - [Waveshare Mini Stepper Motor HAT](https://github.com/jgphilpott/sensors/blob/main/Motors&Drivers/Drivers/WaveshareMini/README.md)
-
-## Irrigation
-
- - [Gikfun Soil Moisture Sensor](https://github.com/jgphilpott/sensors/blob/main/Irrigation/Soil_Moisture/README.md)
 
 ## Navigation
 
